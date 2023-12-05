@@ -1,0 +1,7 @@
+.confetti{
+    max-width: auto;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    user-select: none;
+ }
